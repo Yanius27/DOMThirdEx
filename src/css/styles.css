@@ -1,0 +1,24 @@
+.cinemaTable {
+  font-size: 20px;
+  margin: 100px auto auto;
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid black;
+  padding: 2px 7px;
+}
+
+.td-with-arrow-up {
+  background-image: url('../img/pngwing2.com.png');
+  background-position: 80%;
+  background-repeat: no-repeat;
+  background-size: 20%;
+}
+
+.td-with-arrow-down {
+  background-image: url('../img/pngwing.com.png');
+  background-position: 80%;
+  background-repeat: no-repeat;
+  background-size: 20%;
+}

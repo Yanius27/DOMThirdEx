@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5bkc18f6a8s0pyli/branch/main?svg=true)](https://ci.appveyor.com/project/Yanius27/domthirdex/branch/main)
